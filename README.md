@@ -1,1 +1,1 @@
-## This is sample for building .net standard cross platform library.
+#### This is sample for building .net standard cross platform library.
