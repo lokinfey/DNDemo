@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{586A1377-9E88-41D8-9708-7D1F72D47203}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DNDemo.Lib/Kinfey.netstandard.cs">
+    <Files>
+      <File FileName="DNDemo.Lib/Kinfey.ios.cs" Line="1" Column="1" />
+      <File FileName="DNDemo.Lib/Kinfey.shared.cs" Line="1" Column="1" />
+      <File FileName="DNDemo.Lib/Kinfey.android.cs" Line="1" Column="1" />
+      <File FileName="DNDemo.Lib/Kinfey.netstandard.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DNDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2BF010E3-E56E-4ABB-9BFD-1699D08833D9" />
+</Properties>

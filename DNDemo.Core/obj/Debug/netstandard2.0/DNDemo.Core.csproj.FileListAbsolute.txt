@@ -1,0 +1,13 @@
+/Users/lujianhui/Downloads/DNDemo/DNDemo.Core/bin/Debug/netstandard2.0/DNDemo.Core.deps.json
+/Users/lujianhui/Downloads/DNDemo/DNDemo.Core/bin/Debug/netstandard2.0/DNDemo.Core.dll
+/Users/lujianhui/Downloads/DNDemo/DNDemo.Core/bin/Debug/netstandard2.0/DNDemo.Core.pdb
+/Users/lujianhui/Downloads/DNDemo/DNDemo.Core/bin/Debug/netstandard2.0/DNDemo.Lib.dll
+/Users/lujianhui/Downloads/DNDemo/DNDemo.Core/bin/Debug/netstandard2.0/DNDemo.Lib.pdb
+/Users/lujianhui/Downloads/DNDemo/DNDemo.Core/obj/Debug/netstandard2.0/DNDemo.Core.csprojResolveAssemblyReference.cache
+/Users/lujianhui/Downloads/DNDemo/DNDemo.Core/obj/Debug/netstandard2.0/DNDemo.Core.csproj.CoreCompileInputs.cache
+/Users/lujianhui/Downloads/DNDemo/DNDemo.Core/obj/Debug/netstandard2.0/DNDemo.Core.App.xaml.g.cs
+/Users/lujianhui/Downloads/DNDemo/DNDemo.Core/obj/Debug/netstandard2.0/DNDemo.Core.DNDemoPage.xaml.g.cs
+/Users/lujianhui/Downloads/DNDemo/DNDemo.Core/obj/Debug/netstandard2.0/DNDemo.Core.AssemblyInfoInputs.cache
+/Users/lujianhui/Downloads/DNDemo/DNDemo.Core/obj/Debug/netstandard2.0/DNDemo.Core.AssemblyInfo.cs
+/Users/lujianhui/Downloads/DNDemo/DNDemo.Core/obj/Debug/netstandard2.0/DNDemo.Core.dll
+/Users/lujianhui/Downloads/DNDemo/DNDemo.Core/obj/Debug/netstandard2.0/DNDemo.Core.pdb
